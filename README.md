@@ -24,3 +24,13 @@ forge build
 ```bash
 forge test
 ```
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO Kill Switch](https://www.chainsecurity.com/security-audit/makerdao-kill-switch/) | 2024-03-18 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
